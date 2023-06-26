@@ -3,8 +3,7 @@
 </script>
 
 <template>
-  <div>
-    测试
+  测试
   <HelloWorld msg="Vite + Vue" />
 </template>
 
