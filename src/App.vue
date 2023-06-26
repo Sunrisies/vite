@@ -10,6 +10,7 @@
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
+    11111111111111
   </div>
   <HelloWorld msg="Vite + Vue" />
 </template>
