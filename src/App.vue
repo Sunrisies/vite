@@ -11,7 +11,7 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  修改之后的内容
+  测试
   <HelloWorld msg="Vite + Vue" />
 </template>
 
