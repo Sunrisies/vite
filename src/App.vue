@@ -3,7 +3,6 @@
 </script>
 
 <template>
-  测试
   <HelloWorld msg="Vite + Vue" />
 </template>
 
@@ -21,3 +20,4 @@
     filter: drop-shadow(0 0 2em #42b883aa);
   }
 </style>
+sudo firewall-cmd --zone=default --list-all
